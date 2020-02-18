@@ -1,0 +1,2 @@
+couchbase:
+  default-bucket-name: sampleBucket
