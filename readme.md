@@ -6,7 +6,7 @@ This project requires Java and docker to be available.
 ./gradlew test
 ```
 
-To run tests that show the usage.
+To run tests.
 
 ## Direct couchbase usage (no micronaut)
 
